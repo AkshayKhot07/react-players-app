@@ -23,9 +23,6 @@ const HomePage = () => {
     fetchPlayers();
   }, []);
 
-  console.log("PLAYERS", playerList);
-  console.log("TEAMS", teamsList);
-
   const searchItems = (searchValue) => {
     setSearchPlayers(searchValue);
     if (searchPlayers !== "") {

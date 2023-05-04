@@ -6,8 +6,6 @@ import {
 } from "../../../util/localedatetime";
 
 const Card = ({ player }) => {
-  console.log("DAAATEEE", `${player.UpComingMatchesList[0]?.MDate} UTC`);
-
   return (
     <div className="card-container">
       <div className="card-image-container">

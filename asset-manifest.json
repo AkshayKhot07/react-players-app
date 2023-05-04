@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-players-app/static/css/main.21433d2d.css",
-    "main.js": "/react-players-app/static/js/main.73d58f5d.js",
+    "main.js": "/react-players-app/static/js/main.e0cfe9fd.js",
     "static/js/787.efd0d644.chunk.js": "/react-players-app/static/js/787.efd0d644.chunk.js",
     "index.html": "/react-players-app/index.html",
     "main.21433d2d.css.map": "/react-players-app/static/css/main.21433d2d.css.map",
-    "main.73d58f5d.js.map": "/react-players-app/static/js/main.73d58f5d.js.map",
+    "main.e0cfe9fd.js.map": "/react-players-app/static/js/main.e0cfe9fd.js.map",
     "787.efd0d644.chunk.js.map": "/react-players-app/static/js/787.efd0d644.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21433d2d.css",
-    "static/js/main.73d58f5d.js"
+    "static/js/main.e0cfe9fd.js"
   ]
 }
